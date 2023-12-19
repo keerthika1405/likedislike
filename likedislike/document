@@ -1,0 +1,8 @@
+
+
+
+<script>
+        function refreshPage() {
+            location.reload(true);
+        }
+    </script>
